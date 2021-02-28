@@ -1,2 +1,2 @@
-# tiny-bitsy-game-faithmarie1616
-tiny-bitsy-game-faithmarie1616 created by GitHub Classroom
+# Day in the Life
+Link to the game: 
